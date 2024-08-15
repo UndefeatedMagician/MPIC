@@ -2,8 +2,8 @@
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 10  # Order that this section will appear.
 
 title = "Main Research Direction"
 subtitle = "What we are doing"
@@ -17,20 +17,20 @@ subtitle = "What we are doing"
 [[feature]]
   icon = "code-branch"
   icon_pack = "fas"
-  name = "Multi-modal Intelligent Information Processing"
-  description = "Emotion recognition, sentiment analysis and intention recognition based on multi-modal information such as text, audio, video (picture)."
+  name = "Perceptual Communications"
+  description = "Optimizing communication system, aligning with human perception, enhancing audio-visual quality."
   
 [[feature]]
   icon = "robot"
   icon_pack = "fas"
-  name = "Key Technologies of Intelligent Mobile Robots"
-  description = "Human-machine dialogue technology, intelligent mobile robot control technology and scene applications (business intelligent service robot, dual-mode intelligent disinfection robot)."  
+  name = "Neural Compression"
+  description = "Data driven methods, generative compression, entropy modeling."  
   
 [[feature]]
   icon = "memory"
   icon_pack = "fas"
-  name = "Research on Intelligent Optimization Method"
-  description = "Evolution-based optimization theory, (high-dimensional, sparse, expensive) multi-objective optimization problem."
+  name = "Source and Channel Coding"
+  description = "Eliminating data redundancy, adding protective redundancy, ensuring reliable communication."
 
 # Uncomment to use emoji icons.
  [[feature]]

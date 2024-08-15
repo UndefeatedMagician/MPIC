@@ -5,10 +5,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = ""
+title = "Machine Perception and Intelligent Communications\n Research Group"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "BUPTgate.jpg"
+# hero_media = "BUPTPlanForm.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -20,15 +20,15 @@ hero_media = "BUPTgate.jpg"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#003399"
-  gradient_end = "#003399"
+  # gradient_start = "#003399"
+  # gradient_end = "#003399"
   
   # Background image.
-  # image = "北邮校名校徽编排-横版中英文.png"  # Name of image in `static/media/`.
-  # image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+   image = "BUPTPlanForm.png"  # Name of image in `static/media/`.
+   image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+   image_position = "center"  # Options include `left`, `center` (default), or `right`.
+   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
   text_color_light = true
@@ -37,22 +37,27 @@ hero_media = "BUPTgate.jpg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://github.com/"
+  url = "https://github.com/semcomm"
   label = "Github"
   icon_pack = "fab"
   icon = "github"
   
-# [cta_alt]
-#  url = "/#contact"
-#  label = "Contact Us"
+[cta_alt]
+  url = "/#contact"
+  label = "Contact Us"
 
 # Note. An optional note to show underneath the links.
 # [cta_note]
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
+Key Laboratory of Universal Wireless Communications, Ministry of Education,<br>
+School of Artificial Intelligence, <br>
+Beijing University of Posts and Telecommunications<br>
 
-• Semantic Communications<br>
-• Source and channel coding<br>
-• Physical layer signal processing for wireless communication<br>
+[//]: # (• Semantic Communications<br>)
+
+[//]: # (• Source and channel coding<br>)
+
+[//]: # (• Physical layer signal processing for wireless communication<br>)
 
 
