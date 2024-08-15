@@ -13,7 +13,7 @@ design:
     image_darken: 0
 
 ---
-● <font face=consolas> <font face=fantasy color=red>**NEW**</font> **[2022-12]** *2 papers* accepted by <font color=#003399>**2023 WCNC**</font>.</font><br/>
+● <font face=consolas> <font face=fantasy color=red class=blink>**NEW**</font> **[2022-12]** *2 papers* accepted by <font color=#003399>**2023 WCNC**</font>.</font><br/>
   - Variational Speech Waveform Compression to Catalyze Semantic Communications ([link](/publication/variational-speech-waveform-compression-to-catalyze-semantic-communications/) ) <br/>
   
 ● <font face=consolas> **[2022-08]** *2 papers* accepted by <font color=#003399>**2022 GLOBECOM**</font>.</font><br/>

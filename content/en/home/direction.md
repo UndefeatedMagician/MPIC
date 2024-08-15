@@ -15,19 +15,19 @@ subtitle = "What we are doing"
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "code-branch"
+  icon = "brain"
   icon_pack = "fas"
   name = "Perceptual Communications"
   description = "Optimizing communication system, aligning with human perception, enhancing audio-visual quality."
   
 [[feature]]
-  icon = "robot"
+  icon = "code-branch"
   icon_pack = "fas"
   name = "Neural Compression"
   description = "Data driven methods, generative compression, entropy modeling."  
   
 [[feature]]
-  icon = "memory"
+  icon = "ruler-horizontal"
   icon_pack = "fas"
   name = "Source and Channel Coding"
   description = "Eliminating data redundancy, adding protective redundancy, ensuring reliable communication."
